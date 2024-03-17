@@ -1,0 +1,22 @@
+﻿
+html, body{
+    margin:0;
+    padding:0;
+    width:100%;
+    height:100vh;
+    background:#4cff00;
+
+
+}.data{
+
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color:black;
+     font-size:30px;
+     letter-spacing:12px;
+     font-weight:600;
+     position:absolute;
+     top:50%;
+     left:50%;
+     transform:translate(-50%,-50%);
+
+ }
